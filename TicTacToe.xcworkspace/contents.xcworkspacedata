@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TicTacToeShared/TicTacToeShared/TicTacToeShared.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TicTacToe.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TicTacToeServer/PerfectTemplate/TicTacToeServer.xcodeproj">
+   </FileRef>
+</Workspace>
